@@ -3,9 +3,7 @@
 Welcome to the "Computer Architecture", which demonstrates different techniques such as string copying, array searching, and recursive functions.
 
 
-## Code Overview
-
-This repository contains several assembly programs that demonstrate basic operations in RISC-V Assembly language.
+## Functions Overview
 
 ### String Copying (version 1)
 The first version of the string copying code demonstrates how to copy a null-terminated string byte-by-byte from one memory location to another. It uses basic load and store operations in a loop, checking for the null terminator (`0x00`) to exit.
