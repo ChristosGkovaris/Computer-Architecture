@@ -19,8 +19,8 @@ Welcome to the "Computer Architecture", which demonstrates different techniques 
 
 
 ## How to Run
-- **Clone the Repository:**
+- Clone the Repository:
   ```bash
-     git clone https://github.com/yourusername/assembly-code-examples.git
-     cd assembly-code-examples
-- **Ensure you have an assembler and simulator that supports RISC-V assembly language**
+     git clone https://github.com/yourusername/Computer-Architecture.git
+     cd Computer-Architecture
+- Ensure you have an assembler and simulator that supports RISC-V assembly language 
